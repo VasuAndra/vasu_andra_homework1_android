@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Fragment3Activity2Id"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    android:layout_marginStart="40dp"
+
+    android:layout_marginTop="20dp"
+
+    android:background="@color/Blue3"
+    android:orientation="vertical">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
